@@ -18,3 +18,7 @@ img {
 nav {
   background: lightgrey
 }
+
+nav, figcaption {
+  text-align: center
+}
