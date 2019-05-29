@@ -16,7 +16,8 @@ img {
 }
 
 nav a {
-  background: lightgrey
+  background: lightgrey;
+  padding: 0 10px;  
 }
 
 nav, figcaption {
