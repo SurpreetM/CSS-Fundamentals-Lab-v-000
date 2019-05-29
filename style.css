@@ -30,9 +30,9 @@ section p {
   margin: 0 auto;
 }
 
-#details div {
-  display: block;
+#details div{
   float: left;
-
-
+  background-color: red;
+  width: 25%;
+  text-align: center;
 }
