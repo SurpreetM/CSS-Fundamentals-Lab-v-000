@@ -24,7 +24,8 @@ nav, figcaption {
   text-align: center
 }
 
-setion p {
+section p {
   text-align: center;
-  width: 800px
+  width: 800px;
+  margin: 0 auto;
 }
