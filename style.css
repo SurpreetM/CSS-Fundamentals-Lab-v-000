@@ -30,7 +30,7 @@ section p {
   margin: 0 auto;
 }
 
-section #details {
+section #details div {
   display: block;
   float: left;
 
