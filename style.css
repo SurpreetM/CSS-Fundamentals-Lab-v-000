@@ -29,3 +29,8 @@ section p {
   width: 800px;
   margin: 0 auto;
 }
+
+section #details {
+  display: block;
+  
+}
